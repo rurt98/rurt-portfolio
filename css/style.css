@@ -584,7 +584,7 @@ Home section
 }
 
 .about-section .about-tabs {
-    padding: 60px 15px 50px;
+    padding: 100px 15px 50px;
     flex: 0 0 100%;
     max-width: 100%;
     text-align: center;
@@ -794,7 +794,7 @@ Home section
 
 .about-section .timeline .timeline-item-inner p {
     font-size: 16px;
-    color: var(--text-black-600);
+    color: var(--text-black-300);
     line-height: 26px;
     margin: 15px 0 0;
 }
@@ -994,9 +994,6 @@ projects section
     color: var(--text-black-600);
 }
 
-.projects-section .project-info .proyect-text li {
-    color: var(--text-black-600);
-}
 
 .projects-section .project-info .proyect-text span {
     font-weight: 600;
