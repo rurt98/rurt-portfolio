@@ -861,6 +861,7 @@ service section
     line-height: 60px;
 }
 
+
 /* 
 projects section 
  */
@@ -1401,6 +1402,10 @@ footer {
 
     .footer-content {
         max-width: 80.3%;
+    }
+
+    .footer-content h3 {
+        font-size: 20px;
     }
 
 }
